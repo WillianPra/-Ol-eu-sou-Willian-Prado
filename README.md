@@ -21,7 +21,7 @@ Sou um entusiasta da tecnologia em início de carreira, atualmente estudando e m
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn]: www.linkedin.com/in/willian-prado
+- [LinkedIn](www.linkedin.com/in/willian-prado)
 - 📧 E-mail: willianprado79@hotmail.com
 
 ---
